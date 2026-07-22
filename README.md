@@ -1,4 +1,4 @@
-# Sistema de Gestión de Tareas
+# Sistema académico de gestión de tareas
 
 Proyecto para practicar Git.
 

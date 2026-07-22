@@ -1,0 +1,5 @@
+Sistema de autenticación:
+
+- Usuario
+- Contraseña
+- Roles

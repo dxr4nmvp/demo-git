@@ -1,0 +1,5 @@
+Usuarios del sistema:
+
+1. Admin
+2. Profesor
+3. Estudiante
